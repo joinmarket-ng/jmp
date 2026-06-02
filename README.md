@@ -17,6 +17,8 @@ resolve ambiguities, and provide a shared reference for developers.
 | [JMP-0002](jmp-0002.md) | neutrino_compat Feature | Draft | Extension |
 | [JMP-0003](jmp-0003.md) | peerlist_features Feature | Draft | Extension |
 | [JMP-0004](jmp-0004.md) | ping Feature | Draft | Extension |
+| [JMP-0005](jmp-0005.md) | zkp_credentials_v2 Feature | Draft | Extension |
+| [JMP-0006](jmp-0006.md) | tx_extension_v2 Feature | Draft | Extension |
 
 ## Compatibility Matrix
 
@@ -33,6 +35,8 @@ Empty cells indicate the feature is not implemented.
 | `peerlist_features` | | Yes | |
 | `ping` | Defined, not used | Yes | Yes |
 | `push_encrypted` | | Defined, not used | |
+| `zkp_credentials_v2` | | Yes | |
+| `tx_extension_v2` | | Yes | |
 | `fidelity_bond` (handshake) | | | Yes (bond proof in features value) |
 | Extended peerlist (F:) | | Yes | |
 | Fidelity bonds (!tbond) | Yes | Yes | |
