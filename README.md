@@ -18,6 +18,7 @@ resolve ambiguities, and provide a shared reference for developers.
 | [JMP-0003](jmp-0003.md) | peerlist_features Feature | Draft | Extension |
 | [JMP-0004](jmp-0004.md) | ping Feature | Draft | Extension |
 | [JMP-0005](jmp-0005.md) | Taproot Offers (tr0) | Draft | Extension |
+| [JMP-0006](jmp-0006.md) | Silent Payment Outputs (sp_ecdh) | Draft | Extension |
 
 ## Compatibility Matrix
 
@@ -36,6 +37,7 @@ Empty cells indicate the feature is not implemented.
 | `push_encrypted` | | Defined, not used | |
 | `fidelity_bond` (handshake) | | | Yes (bond proof in features value) |
 | `tr0` taproot offers | | Yes | |
+| `sp_ecdh` silent payment outputs | | | |
 | Extended peerlist (F:) | | Yes | |
 | Fidelity bonds (!tbond) | Yes | Yes | |
 | Nick signature verification | Yes | Yes | Yes |
