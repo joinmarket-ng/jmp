@@ -13,7 +13,7 @@ resolve ambiguities, and provide a shared reference for developers.
 
 | Number | Title | Status | Layer |
 |--------|-------|--------|-------|
-| [JMP-0001](jmp-0001.md) | Base Protocol | Draft | Core |
+| [JMP-0001](jmp-0001.md) | Base Protocol | Active | Core |
 | [JMP-0002](jmp-0002.md) | neutrino_compat Feature | Draft | Extension |
 | [JMP-0003](jmp-0003.md) | peerlist_features Feature | Draft | Extension |
 | [JMP-0004](jmp-0004.md) | ping Feature | Draft | Extension |
