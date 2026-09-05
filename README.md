@@ -18,6 +18,8 @@ resolve ambiguities, and provide a shared reference for developers.
 | [JMP-0003](jmp-0003.md) | peerlist_features Feature | Draft | Extension |
 | [JMP-0004](jmp-0004.md) | ping Feature | Draft | Extension |
 | [JMP-0005](jmp-0005.md) | Directory Nick Ownership Authentication | Draft | Extension |
+| [JMP-0012](jmp-0012.md) | Experimental Credential Market | Draft | Extension |
+| [JMP-0013](jmp-0013.md) | Signed Market Fault Evidence | Draft | Extension |
 
 ## Compatibility Matrix
 
