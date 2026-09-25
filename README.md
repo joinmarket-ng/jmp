@@ -19,6 +19,7 @@ resolve ambiguities, and provide a shared reference for developers.
 | [JMP-0004](jmp-0004.md) | ping Feature | Draft | Extension |
 | [JMP-0005](jmp-0005.md) | Directory Nick Ownership Authentication | Draft | Extension |
 | [JMP-0010](jmp-0010.md) | Taproot CoinJoin Pit (tr0) | Draft | Extension |
+| [JMP-0011](jmp-0011.md) | Private Channel Buyout in tr0 CoinJoins | Draft | Extension |
 
 ## Compatibility Matrix
 
@@ -39,6 +40,7 @@ Empty cells indicate the feature is not implemented.
 | `fidelity_bond` (handshake) | | | Yes (bond proof in features value) |
 | Extended peerlist (F:) | | Yes | |
 | `tr0` Taproot pit offers (JMP-0010) | | Experimental | |
+| Private channel buyout (JMP-0011) | | Experimental | |
 | Fidelity bonds (!tbond) | Yes | Yes | |
 | Nick signature verification | Yes | Yes | Yes |
 | Direct peer connections | Yes | Yes | |
