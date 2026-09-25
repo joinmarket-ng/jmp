@@ -38,6 +38,7 @@ Empty cells indicate the feature is not implemented.
 | `neutrino_compat` | | Yes | |
 | `peerlist_features` | | Yes | |
 | `ping` | Defined, not used | Yes | Yes |
+| `direct_ping_v1` (JMP-0004) | | Experimental | |
 | `nick_auth` | | In review ([#579](https://github.com/joinmarket-ng/joinmarket-ng/pull/579)) | |
 | `push_encrypted` | | Defined, not used | |
 | `fidelity_bond` (handshake) | | | Yes (bond proof in features value) |
