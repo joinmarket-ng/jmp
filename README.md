@@ -22,6 +22,7 @@ resolve ambiguities, and provide a shared reference for developers.
 | [JMP-0011](jmp-0011.md) | Private Channel Buyout in tr0 CoinJoins | Draft | Extension |
 | [JMP-0012](jmp-0012.md) | Experimental Credential Market | Draft | Extension |
 | [JMP-0013](jmp-0013.md) | Signed Market Fault Evidence | Draft | Extension |
+| [JMP-0014](jmp-0014.md) | Cofunded Lightning Channel Ring | Draft | Extension |
 
 ## Compatibility Matrix
 
@@ -44,6 +45,7 @@ Empty cells indicate the feature is not implemented.
 | `tr0` Taproot pit offers (JMP-0010) | | Experimental | |
 | Private channel buyout (JMP-0011) | | Experimental | |
 | Credential market (JMP-0012, JMP-0013) | | Experimental | |
+| `private_channel_ring` (JMP-0014) | | Experimental | |
 | Fidelity bonds (!tbond) | Yes | Yes | |
 | Nick signature verification | Yes | Yes | Yes |
 | Direct peer connections | Yes | Yes | |
