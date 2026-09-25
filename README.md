@@ -20,6 +20,8 @@ resolve ambiguities, and provide a shared reference for developers.
 | [JMP-0005](jmp-0005.md) | Directory Nick Ownership Authentication | Draft | Extension |
 | [JMP-0010](jmp-0010.md) | Taproot CoinJoin Pit (tr0) | Draft | Extension |
 | [JMP-0011](jmp-0011.md) | Private Channel Buyout in tr0 CoinJoins | Draft | Extension |
+| [JMP-0012](jmp-0012.md) | Experimental Credential Market | Draft | Extension |
+| [JMP-0013](jmp-0013.md) | Signed Market Fault Evidence | Draft | Extension |
 
 ## Compatibility Matrix
 
@@ -41,6 +43,7 @@ Empty cells indicate the feature is not implemented.
 | Extended peerlist (F:) | | Yes | |
 | `tr0` Taproot pit offers (JMP-0010) | | Experimental | |
 | Private channel buyout (JMP-0011) | | Experimental | |
+| Credential market (JMP-0012, JMP-0013) | | Experimental | |
 | Fidelity bonds (!tbond) | Yes | Yes | |
 | Nick signature verification | Yes | Yes | Yes |
 | Direct peer connections | Yes | Yes | |
